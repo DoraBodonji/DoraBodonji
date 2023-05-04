@@ -1,0 +1,10 @@
+1. Kod regresionih testova cemo testirati ostale funkcionalnosti aplikacije da bisme se uverili da nisu poremećene tokom implementacije nove funkcionalnosti.
+2. color: #6c757d;
+    font family : Avenir, Helvetica, Arial, Sans Serif
+    border-radius: 50rem!;
+    border: 1px solid transparent;
+3. a. high priority i high severity - korisnik nece moci da uplati parking ako aplikacija ne prepoznaje slovo, sprecava ih da unesu validnu registracionu oznaku i rizikuju da dobije kaznu.
+   b. low severity i priority - korisnik nece moci da unese ime 15-tog deteta ali retko ko ima toliko dece, tako da ne utice na funkcionalnost aplikacije.
+   c. medium  priority i severity - ova gresk amoze dovesti do nezadovoljstva korisnika i manjka ljudi koji koriste aplikaciju zbog loseg funkcionisanja.
+4. Na dailyju
+5.Usability
